@@ -109,7 +109,6 @@ It helps businesses understand **sales performance, profit distribution, regiona
 
 ## 👤 Author
 **Divya Patel**
---Data Analytics & Machine Learning Enthusiast
 
 ---
 
