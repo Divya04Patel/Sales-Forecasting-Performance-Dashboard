@@ -78,7 +78,7 @@ It helps businesses understand **sales performance, profit distribution, regiona
 ---
 
 ## 📷 Dashboard Preview
-_Add screenshots of the dashboard here_
+![alt text](screenshots/dashboard_overview1.png.jpeg)
 
 ---
 
@@ -109,7 +109,7 @@ _Add screenshots of the dashboard here_
 
 ## 👤 Author
 **Divya Patel**
-Data Analytics & Machine Learning Enthusiast
+--Data Analytics & Machine Learning Enthusiast
 
 ---
 
